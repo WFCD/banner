@@ -1,4 +1,4 @@
-# Projects that have are supported by Warframe Community Developers
+# Projects that have support from Warframe Community Developers
 
 Title | Author | Repository Link | Date |
 --- | --- | --- | --- |
