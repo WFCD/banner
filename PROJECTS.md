@@ -12,3 +12,4 @@ genesis | Tobiah | [Repo](https://github.com/aliasfalse/genesis) | 7-Dec-2016
 warframe-worldstate-parser | Tobiah | [Repo](https://github.com/aliasfalse/warframe-worldstate-parser) | 7-Dec-2016
 warframe-worldstate-data | Tobiah | [Repo](https://github.com/aliasfalse/warframe-worldstate-data) | 7-Dec-2016
 warframe-alerts-win | Ali60351 | [Repo](https://github.com/Warframe-Community-Developers/warframe-alerts-win) | 31-Dec-2016
+mod-detection-tools | Bourne-ID | [Repo](https://github.com/Warframe-Community-Developers/Mod-Detection-Tools) | 30-Jan-2017
