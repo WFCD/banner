@@ -14,4 +14,4 @@ To use the banner, please submit a pull request to this repository adding an ent
 
 ## Fonts
 
-* [Roboto](http://www.dafont.com/roboto.font)
+* [Roboto](https://fonts.google.com/specimen/Roboto?selection.family=Roboto)
