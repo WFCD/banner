@@ -14,4 +14,5 @@ To use the banner, please submit a pull request to this repository adding an ent
 
 ## Fonts
 
-* [Roboto](https://fonts.google.com/specimen/Roboto?selection.family=Roboto)
+* [Uni Sans](https://www.behance.net/gallery/17414961/Uni-Sans-Free)
+* [Titillium](https://fonts.google.com/specimen/Titillium+Web)
