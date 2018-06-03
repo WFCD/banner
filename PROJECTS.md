@@ -20,4 +20,4 @@ warframe-status | Tobiah | [Repo](https://github.com/WFCD/warframe-status) | 2-J
 tennotv | Tobiah | [Repo](https://github.com/WFCD/tennotv) | 2-June-2018
 warframe-items | Tobiah | [Repo](https://github.com/WFCD/warframe-items) | 2-June-2018
 warframe-drop-data | Tobiah | [Repo](https://github.com/WFCD/warframe-drop-data) | 2-June-2018
-warframe-hub | Tobiah | [Repo](https://github.com/WFCD/warframe-drop-hub) | 2-June-2018
+warframe-hub | Tobiah | [Repo](https://github.com/WFCD/warframe-hub) | 2-June-2018
