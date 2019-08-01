@@ -22,3 +22,4 @@ warframe-items | Kaptard | [Repo](https://github.com/WFCD/warframe-items) | 2-Ju
 warframe-drop-data | atomicptr | [Repo](https://github.com/WFCD/warframe-drop-data) | 2-June-2018
 warframe-hub | Tobiah & MainlandHero | [Repo](https://github.com/WFCD/warframe-hub) | 2-June-2018
 navis | SlayerOrnstein | [Repo](https://github.com/WFCD/navis) | 6-June-2019
+warframe-mastery-helper | andersbrandt | [Repo](https://github.com/andersbrandt/warframe-mastery-helper/) | 1-August-2019
