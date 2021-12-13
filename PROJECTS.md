@@ -25,3 +25,4 @@ navis | SlayerOrnstein | [Repo](https://github.com/WFCD/navis) | 6-June-2019
 warframe-mastery-helper | andersbrandt | [Repo](https://github.com/andersbrandt/warframe-mastery-helper/) | 1-Aug-2019
 WFInfo | dimon222 & Kekasi & Dapal-003 | [Repo](https://github.com/wfcd/WFInfo) | 29-Feb-2020
 @wfcd/arsenal-parser | Tobah & NicksWorld | [Repo](https://github.com/wfcd/arsenal-parser) | 22-Jul-2020
+warframe-ruby | A.J. | [Repo](https://github.com/wfcd/warframe-ruby) | 12-Dec-2021
